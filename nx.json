@@ -21,5 +21,22 @@
       }
     }
   },
-  "projects": {}
+  "projects": {
+    "api": {
+      "tags": []
+    },
+    "web": {
+      "tags": []
+    },
+    "web-e2e": {
+      "tags": [],
+      "implicitDependencies": ["web"]
+    },
+    "api-core": {
+      "tags": []
+    },
+    "web-core": {
+      "tags": []
+    }
+  }
 }
