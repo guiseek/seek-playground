@@ -22,9 +22,6 @@
     }
   },
   "projects": {
-    "api": {
-      "tags": []
-    },
     "web": {
       "tags": []
     },
@@ -36,6 +33,9 @@
       "tags": []
     },
     "web-core": {
+      "tags": []
+    },
+    "api": {
       "tags": []
     }
   }
